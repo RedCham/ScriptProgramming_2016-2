@@ -10,6 +10,9 @@ Repository for example codes for the Script Programming class (02분반).
 - 파이썬을 이용한 시스템 트레이딩 (기초편): https://wikidocs.net/book/110
 - 코딩 도장: http://codingdojang.com/
 - Project Euler @ kr: http://euler.synap.co.kr/
+- Git (생활코딩): https://opentutorials.org/course/1492
+- Pro Git: https://git-scm.com/book/ko/v2
+- 누구나 쉽게 이해할 수 있는 Git 입문: https://backlogtool.com/git-guide/kr/
 
 ---
 Seungwoo Kang, School of Computer Science and Engineering, KOREATECH
