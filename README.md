@@ -1,1 +1,2 @@
-# ScriptProgramming_2016-2
+# Script Programming 2016-2
+(KOREATECH CSE)
