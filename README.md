@@ -1,5 +1,5 @@
 # Script Programming 2016-2
-Repository for example codes for the Script Programming class.
+Repository for example codes for the Script Programming class (02분반).
 
 ### Textbook
 - 파이썬(Introduction to Programming Using Python), Y. Daniel Liang 저/ 길준민, 정재화 역, 생능출판
