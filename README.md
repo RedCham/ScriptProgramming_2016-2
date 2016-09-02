@@ -2,7 +2,7 @@
 Repository for example codes for the Script Programming class.
 
 ### Textbook
-파이썬(Introduction to Programming Using Python), Y. Daniel Liang 저/ 길준민, 정재화 역, 생능출판
+- 파이썬(Introduction to Programming Using Python), Y. Daniel Liang 저/ 길준민, 정재화 역, 생능출판
 
 ### Resources
 - Python Programming - E-learning (by Prof. Youn-Hee Han): http://link.koreatech.ac.kr/courses2/SPE/syllabus.html
